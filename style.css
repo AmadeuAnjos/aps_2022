@@ -371,3 +371,7 @@ hr {
 	font-size: 15px;
 	color: #ffffff;
 }
+
+#no_click {
+	pointer-events: none;
+}
